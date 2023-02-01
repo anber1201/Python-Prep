@@ -1,1 +1,1 @@
-print('Hola Mundo! 2023 soy millonario')
+print('Hola Mundo! 2023')
